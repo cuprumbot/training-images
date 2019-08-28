@@ -1,0 +1,4 @@
+aluminio
+bolsa
+botella
+papel
