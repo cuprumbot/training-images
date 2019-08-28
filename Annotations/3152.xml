@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>../JPEGImages/</folder>
+    <filename>3152.jpg</filename>
+    <size>
+        <depth>3</depth>
+        <width>416</width>
+        <height>416</height>
+    </size>
+    <object>
+    <name>bolsa</name>
+    <bndbox>
+        <xmin>10</xmin>
+        <ymin>10</ymin>
+        <xmax>283</xmax>
+        <ymax>290</ymax>
+    </bndbox>
+</object><object>
+    <name>papel</name>
+    <bndbox>
+        <xmin>213</xmin>
+        <ymin>10</ymin>
+        <xmax>425</xmax>
+        <ymax>239</ymax>
+    </bndbox>
+</object><object>
+    <name>aluminio</name>
+    <bndbox>
+        <xmin>10</xmin>
+        <ymin>213</ymin>
+        <xmax>248</xmax>
+        <ymax>465</ymax>
+    </bndbox>
+</object><object>
+    <name>bolsa</name>
+    <bndbox>
+        <xmin>213</xmin>
+        <ymin>213</ymin>
+        <xmax>405</xmax>
+        <ymax>416</ymax>
+    </bndbox>
+</object>
+</annotation>

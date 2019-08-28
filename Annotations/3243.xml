@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>../JPEGImages/</folder>
+    <filename>3243.jpg</filename>
+    <size>
+        <depth>3</depth>
+        <width>416</width>
+        <height>416</height>
+    </size>
+    <object>
+    <name>aluminio</name>
+    <bndbox>
+        <xmin>10</xmin>
+        <ymin>10</ymin>
+        <xmax>213</xmax>
+        <ymax>209</ymax>
+    </bndbox>
+</object><object>
+    <name>aluminio</name>
+    <bndbox>
+        <xmin>213</xmin>
+        <ymin>10</ymin>
+        <xmax>392</xmax>
+        <ymax>209</ymax>
+    </bndbox>
+</object><object>
+    <name>botella</name>
+    <bndbox>
+        <xmin>10</xmin>
+        <ymin>213</ymin>
+        <xmax>181</xmax>
+        <ymax>449</ymax>
+    </bndbox>
+</object><object>
+    <name>papel</name>
+    <bndbox>
+        <xmin>213</xmin>
+        <ymin>213</ymin>
+        <xmax>472</xmax>
+        <ymax>456</ymax>
+    </bndbox>
+</object>
+</annotation>
