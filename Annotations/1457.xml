@@ -8,36 +8,36 @@
         <height>416</height>
     </size>
     <object>
-    <name>botella</name>
+    <name>bolsa</name>
     <bndbox>
         <xmin>10</xmin>
         <ymin>10</ymin>
-        <xmax>195</xmax>
-        <ymax>256</ymax>
+        <xmax>246</xmax>
+        <ymax>209</ymax>
     </bndbox>
 </object><object>
-    <name>papel</name>
+    <name>botella</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>10</ymin>
-        <xmax>496</xmax>
-        <ymax>281</ymax>
+        <xmax>406</xmax>
+        <ymax>108</ymax>
     </bndbox>
 </object><object>
-    <name>papel</name>
+    <name>botella</name>
     <bndbox>
         <xmin>10</xmin>
         <ymin>213</ymin>
-        <xmax>247</xmax>
-        <ymax>465</ymax>
+        <xmax>148</xmax>
+        <ymax>429</ymax>
     </bndbox>
 </object><object>
     <name>bolsa</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>213</ymin>
-        <xmax>391</xmax>
-        <ymax>426</ymax>
+        <xmax>429</xmax>
+        <ymax>388</ymax>
     </bndbox>
 </object>
 </annotation>
