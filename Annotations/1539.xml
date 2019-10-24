@@ -12,15 +12,15 @@
     <bndbox>
         <xmin>10</xmin>
         <ymin>10</ymin>
-        <xmax>111</xmax>
+        <xmax>171</xmax>
         <ymax>213</ymax>
     </bndbox>
 </object><object>
-    <name>aluminio</name>
+    <name>lata</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>10</ymin>
-        <xmax>429</xmax>
+        <xmax>390</xmax>
         <ymax>216</ymax>
     </bndbox>
 </object><object>
@@ -28,16 +28,16 @@
     <bndbox>
         <xmin>10</xmin>
         <ymin>213</ymin>
-        <xmax>151</xmax>
-        <ymax>426</ymax>
+        <xmax>265</xmax>
+        <ymax>363</ymax>
     </bndbox>
 </object><object>
-    <name>bolsa</name>
+    <name>lata</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>213</ymin>
-        <xmax>478</xmax>
-        <ymax>448</ymax>
+        <xmax>414</xmax>
+        <ymax>481</ymax>
     </bndbox>
 </object>
 </annotation>
