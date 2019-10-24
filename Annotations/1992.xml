@@ -8,36 +8,36 @@
         <height>416</height>
     </size>
     <object>
-    <name>lata</name>
+    <name>botella</name>
     <bndbox>
         <xmin>10</xmin>
         <ymin>10</ymin>
-        <xmax>216</xmax>
-        <ymax>259</ymax>
+        <xmax>222</xmax>
+        <ymax>256</ymax>
     </bndbox>
 </object><object>
     <name>lata</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>10</ymin>
-        <xmax>311</xmax>
-        <ymax>203</ymax>
+        <xmax>490</xmax>
+        <ymax>255</ymax>
     </bndbox>
 </object><object>
-    <name>lata</name>
+    <name>botella</name>
     <bndbox>
         <xmin>10</xmin>
         <ymin>213</ymin>
-        <xmax>169</xmax>
-        <ymax>436</ymax>
+        <xmax>109</xmax>
+        <ymax>419</ymax>
     </bndbox>
 </object><object>
     <name>lata</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>213</ymin>
-        <xmax>480</xmax>
-        <ymax>481</ymax>
+        <xmax>478</xmax>
+        <ymax>478</ymax>
     </bndbox>
 </object>
 </annotation>

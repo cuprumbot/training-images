@@ -12,32 +12,32 @@
     <bndbox>
         <xmin>10</xmin>
         <ymin>10</ymin>
-        <xmax>169</xmax>
-        <ymax>216</ymax>
+        <xmax>229</xmax>
+        <ymax>183</ymax>
     </bndbox>
 </object><object>
     <name>lata</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>10</ymin>
-        <xmax>441</xmax>
-        <ymax>259</ymax>
+        <xmax>458</xmax>
+        <ymax>275</ymax>
     </bndbox>
 </object><object>
     <name>lata</name>
     <bndbox>
         <xmin>10</xmin>
         <ymin>213</ymin>
-        <xmax>246</xmax>
-        <ymax>481</ymax>
+        <xmax>160</xmax>
+        <ymax>429</ymax>
     </bndbox>
 </object><object>
-    <name>lata</name>
+    <name>botella</name>
     <bndbox>
         <xmin>213</xmin>
         <ymin>213</ymin>
-        <xmax>399</xmax>
-        <ymax>446</ymax>
+        <xmax>417</xmax>
+        <ymax>452</ymax>
     </bndbox>
 </object>
 </annotation>
